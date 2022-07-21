@@ -1,0 +1,3 @@
+C:/Users/86133/Desktop/C/KDTree_C_demo_2/cmake-build-debug/CMakeFiles/KDTree_C_demo_2.dir
+C:/Users/86133/Desktop/C/KDTree_C_demo_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/86133/Desktop/C/KDTree_C_demo_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

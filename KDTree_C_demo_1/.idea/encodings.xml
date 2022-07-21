@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/CMakeLists.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Global_Def.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Global_Def.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/KNN.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/KNN.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Naive_KNN.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Naive_KNN.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Node.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Node.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Point.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Point.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
